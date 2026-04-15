@@ -3,6 +3,6 @@ layout: post
 title: "GTL Camera Housing"
 author: "Ethan Segrue"
 categories: Projects
-image: "camera-box.jpg"
+image: "camera-box-cover.jpg"
 ---
 Start
