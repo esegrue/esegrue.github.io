@@ -10,5 +10,13 @@ permalink: /about/
 <p>In the Summer 2026 term, I interned at John Hopkins University Applied Physics Laboratory in the FPS Force Projection Sector as a Missile Model Developer/Analyst.</p>
 
 <p><strong>Contact</strong></p>
-[<i class="fa fa-envelope fa-fw"></i> ethancsegrue@gmail.com](mailto:ethancsegrue@gmail.com)<br>
-[<i class="fa fa-phone fa-fw"></i> (740) 513-0787](tel:+17405130787)
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px 0 0;"><i class="fa fa-envelope fa-fw"></i></td>
+    <td style="border: none; padding: 0;"><a href="mailto:ethancsegrue@gmail.com">ethancsegrue@gmail.com</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px 0 0;"><i class="fa fa-phone fa-fw"></i></td>
+    <td style="border: none; padding: 0;"><a href="tel:+17405130787">(740) 513-0787</a></td>
+  </tr>
+</table>
